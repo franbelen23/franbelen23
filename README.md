@@ -11,7 +11,7 @@
 </a>
 <br />
 <h3>
-About me 😉:  
+About me 😇:  
 </h3>
 <p>
 I'm 20 years old, looking for great experiences and opportunities. I'm computer science student learning all about Python at UTN-FRA, and keep practising with other languages like HTML, CSS, SCSS, JS and C++. Currently I'm working as an Associate IT Operations Analyst at Ecolab. I enjoy a lot meeting new people and having a conversation with partners at the same area or not, so if you wanna know more about me, my contact is at front!
